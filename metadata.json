@@ -1,0 +1,6 @@
+{
+  "name": "Poojitha — Social Sandbox",
+  "description": "A full-stack social media application featuring user profiles, post creation, commenting, likes, and a follow/unfollow system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
